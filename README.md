@@ -8,8 +8,8 @@ Profissional multidisciplinar com sólida experiência em Contabilidade e desenv
 
 🎓 Formação Acadêmica:
 
-    Graduado em administração de empresas
-    Graduado em ciencias contábeis
+    Graduado em Administração de Empresas
+    Graduado em Ciencias Contábeis
     MBA em Gestão de Projetos, Pessoas e Conflitos
     MBA em Engenharia de Software
 
