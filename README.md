@@ -1,4 +1,4 @@
-# Diosoiano
+# DioSoriano
 Descrição dos meus cursos e atividades desenvolvidas.
 
 👋 Bem-vindo ao meu perfil do GitHub!
